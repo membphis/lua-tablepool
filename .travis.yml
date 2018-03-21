@@ -22,7 +22,7 @@ cache:
 
 env:
   global:
-    - JOBS=3
+    - JOBS=2
     - LUAJIT_PREFIX=/opt/luajit21
     - LUAJIT_LIB=$LUAJIT_PREFIX/lib
     - LUAJIT_INC=$LUAJIT_PREFIX/include/luajit-2.1
